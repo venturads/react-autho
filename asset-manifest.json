@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/venturads/react-autho.git/static/css/main.36497136.chunk.css",
+    "main.js": "/venturads/react-autho.git/static/js/main.45d9ff6e.chunk.js",
+    "main.js.map": "/venturads/react-autho.git/static/js/main.45d9ff6e.chunk.js.map",
+    "runtime-main.js": "/venturads/react-autho.git/static/js/runtime-main.4f67cacf.js",
+    "runtime-main.js.map": "/venturads/react-autho.git/static/js/runtime-main.4f67cacf.js.map",
+    "static/js/2.a37161b6.chunk.js": "/venturads/react-autho.git/static/js/2.a37161b6.chunk.js",
+    "static/js/2.a37161b6.chunk.js.map": "/venturads/react-autho.git/static/js/2.a37161b6.chunk.js.map",
+    "index.html": "/venturads/react-autho.git/index.html",
+    "precache-manifest.7c3c833febc754b35a922dcff3753d40.js": "/venturads/react-autho.git/precache-manifest.7c3c833febc754b35a922dcff3753d40.js",
+    "service-worker.js": "/venturads/react-autho.git/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/venturads/react-autho.git/static/css/main.36497136.chunk.css.map",
+    "static/js/2.a37161b6.chunk.js.LICENSE.txt": "/venturads/react-autho.git/static/js/2.a37161b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f67cacf.js",
+    "static/js/2.a37161b6.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.45d9ff6e.chunk.js"
+  ]
+}
