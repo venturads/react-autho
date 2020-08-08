@@ -2,7 +2,7 @@
   "name": "react-autho",
   "version": "0.1.0",
   "private": true,
-  "homepage": "venturads.com/react-auth0",
+  "homepage": "https://github.com/venturads/react-autho.git",
   "dependencies": {
     "@auth0/auth0-react": "^1.0.0",
     "@testing-library/jest-dom": "^4.2.4",
@@ -17,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
